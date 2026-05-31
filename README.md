@@ -1,11 +1,23 @@
-# Flappy Bird em Python 🐦
-
 <p align="center">
-  <img src="./Assets/Images/1.png" alt="Flappy Bird" width="180">
+  <img src="./Assets/logo.gif" alt="Flappy Bird" width="180">
 </p>
 
+<h1 align="center">
+Flappy Bird em Python 🐦
+</h1>
+
 <p align="center">
-  Uma recriação inspirada no clássico Flappy Bird utilizando Python e Pygame.
+  <a href="https://youtube.com/@SEUCANAL">
+    <img src="https://img.shields.io/badge/YouTube-Código%20Roxo-red?style=for-the-badge&logo=youtube">
+  </a>
+
+  <a href="https://github.com/SEUUSUARIO">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github">
+  </a>
+
+  <a href="https://discord.gg/SEULINK">
+    <img src="https://img.shields.io/badge/Discord-Comunidade-5865F2?style=for-the-badge&logo=discord">
+  </a>
 </p>
 
 ---
