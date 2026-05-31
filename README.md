@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Assets/logo.gif" alt="Flappy Bird" width="180">
+  <img src="./Assets/Images/1.png" alt="Flappy Bird" width="180">
 </p>
 
 <h1 align="center">
@@ -7,15 +7,15 @@ Flappy Bird em Python 🐦
 </h1>
 
 <p align="center">
-  <a href="https://youtube.com/@SEUCANAL">
+  <a href="https://youtube.com/@codigoroxo">
     <img src="https://img.shields.io/badge/YouTube-Código%20Roxo-red?style=for-the-badge&logo=youtube">
   </a>
 
-  <a href="https://github.com/SEUUSUARIO">
+  <a href="https://github.com/codigoroxo">
     <img src="https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github">
   </a>
 
-  <a href="https://discord.gg/SEULINK">
+  <a href="https://discord.gg/TbPqpP5RMq">
     <img src="https://img.shields.io/badge/Discord-Comunidade-5865F2?style=for-the-badge&logo=discord">
   </a>
 </p>
