@@ -1,7 +1,7 @@
 # Flappy Bird em Python 🐦
 
 <p align="center">
-  <img src="./Assets/Images/logo.gif" alt="Flappy Bird" width="180" autoplay=True>
+  <img src="./Assets/Images/1.png" alt="Flappy Bird" width="180">
 </p>
 
 <p align="center">
